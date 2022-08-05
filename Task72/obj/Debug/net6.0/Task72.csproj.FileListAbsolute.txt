@@ -1,0 +1,15 @@
+D:\Work\С#\Семинар7\Task7\Task72\obj\Debug\net6.0\Task72.csproj.AssemblyReference.cache
+D:\Work\С#\Семинар7\Task7\Task72\obj\Debug\net6.0\Task72.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Семинар7\Task7\Task72\obj\Debug\net6.0\Task72.AssemblyInfoInputs.cache
+D:\Work\С#\Семинар7\Task7\Task72\obj\Debug\net6.0\Task72.AssemblyInfo.cs
+D:\Work\С#\Семинар7\Task7\Task72\obj\Debug\net6.0\Task72.csproj.CoreCompileInputs.cache
+D:\Work\С#\Семинар7\Task7\Task72\bin\Debug\net6.0\Task72.exe
+D:\Work\С#\Семинар7\Task7\Task72\bin\Debug\net6.0\Task72.deps.json
+D:\Work\С#\Семинар7\Task7\Task72\bin\Debug\net6.0\Task72.runtimeconfig.json
+D:\Work\С#\Семинар7\Task7\Task72\bin\Debug\net6.0\Task72.dll
+D:\Work\С#\Семинар7\Task7\Task72\bin\Debug\net6.0\Task72.pdb
+D:\Work\С#\Семинар7\Task7\Task72\obj\Debug\net6.0\Task72.dll
+D:\Work\С#\Семинар7\Task7\Task72\obj\Debug\net6.0\refint\Task72.dll
+D:\Work\С#\Семинар7\Task7\Task72\obj\Debug\net6.0\Task72.pdb
+D:\Work\С#\Семинар7\Task7\Task72\obj\Debug\net6.0\Task72.genruntimeconfig.cache
+D:\Work\С#\Семинар7\Task7\Task72\obj\Debug\net6.0\ref\Task72.dll
